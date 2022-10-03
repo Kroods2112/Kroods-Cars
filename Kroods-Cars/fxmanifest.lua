@@ -3,7 +3,13 @@ fx_version 'cerulean'
 game { 'gta5' }
 
 files {
-    'data/**/*.meta'
+    'data/**/vehicles.meta',
+    'data/**/carcols.meta',
+    'data/**/handling.meta',
+    'data/**/carvariations.meta',
+    'data/**/dlctext.meta',
+    'data/**/vehiclelayouts.meta',
+    'data/**/carcontentunlocks.meta'
 }
  
 data_file 'VEHICLE_METADATA_FILE' 'data/**/vehicles.meta'
