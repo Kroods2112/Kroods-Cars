@@ -17,7 +17,7 @@
       "end": 50
     },
     "lowr": {
-      "start": 18,
+      "start": 20,
       "end": 50
     },
     "hand": {
@@ -29,11 +29,11 @@
       "end": 50
     },
     "teef": {
-      "start": 22,
+      "start": 23,
       "end": 50
     },
     "accs": {
-      "start": 18,
+      "start": 19,
       "end": 50
     },
     "task": {
@@ -45,13 +45,13 @@
       "end": 50
     },
     "jbib": {
-      "start": 22,
+      "start": 27,
       "end": 50
     }
   },
   "props": {
     "head": {
-      "start": 26,
+      "start": 28,
       "end": 50
     },
     "eyes": {
